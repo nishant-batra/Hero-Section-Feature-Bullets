@@ -1,9 +1,36 @@
-│ └── Tablet.jpg
-├── img/ # Image assets
-│ ├── favicon.ico
-│ └── prism.png
+# Hero Section with Feature Bullets
 
-````
+This project is a simple hero section with feature bullets, designed as part of the GreatFrontEnd Projects challenge. It demonstrates responsive design principles and uses HTML, CSS, and Tailwind CSS for styling.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [Credits](#credits)
+
+## Overview
+
+The hero section highlights premium abstract images with key features and a call-to-action. It is responsive and adapts to various screen sizes, ensuring a seamless user experience.
+
+## Project Structure
+
+```bash
+├── .gitignore          # Git ignore file
+├── README.md           # Project documentation
+├── index.html          # Main HTML file
+├── css/
+│   └── style.css       # Custom CSS styles
+├── designs/            # Design reference images
+│   ├── Desktop.jpg
+│   ├── Mobile.jpg
+│   └── Tablet.jpg
+├── img/                # Image assets
+│   ├── favicon.ico
+│   └── prism.png
+```
 
 ## Technologies Used
 
@@ -16,8 +43,7 @@
 1. Clone the repository:
    ```bash
    git clone <repository-url>
-````
-
+   ```
 2. Open `index.html` in your browser to view the project.
 
 ### Optional: Using a Live Server
